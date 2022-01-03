@@ -1,5 +1,5 @@
 'use strict';
-// I really wanted to use the let and const keywords, but I need to finish this challenge and don't have time for the docs.
+// I really wanted to use the let and const keywords, but I need to finish this challenge and don't have time to read the documentation to figure out how they operate.
 
 // Button Colors
 var buttonColors = ['red', 'blue', 'green', 'yellow'];
